@@ -1,0 +1,17 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "dev",
+  "projectId" : 17,
+  "domainId" : 7,
+  "validationId" : 369,
+  "validationName" : "369_copy_dataplex_test",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-05T16:34:18.017Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "369_1777979035938.zip",
+    "checksum" : "3282569f59da3c13f7cd5a5e3d2bed0e"
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
