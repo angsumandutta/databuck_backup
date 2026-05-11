@@ -1,0 +1,17 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "dev",
+  "projectId" : 17,
+  "domainId" : 7,
+  "validationId" : 364,
+  "validationName" : "364_dataplex_test_log_spark_session",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-11T08:51:07.110Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "364_1778469666893.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
