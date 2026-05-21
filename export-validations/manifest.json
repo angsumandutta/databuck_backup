@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 27,
+  "projectName" : "Master_test",
+  "domainId" : 67,
+  "domainName" : "Big_Query",
+  "validationId" : 29995,
+  "validationName" : "AllCustom_Rule",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-21T07:15:39.220Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "29995_1779347739016.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
