@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 30657,
+  "validationName" : "payment_details_2104_template_1776761889235_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-21T09:51:09.737Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "30657_1779357069429.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
