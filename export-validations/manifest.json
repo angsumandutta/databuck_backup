@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 31342,
+  "validationName" : "Null_Check",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-21T10:40:54.925Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31342_1779360054630.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
