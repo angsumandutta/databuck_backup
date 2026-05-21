@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 81,
+  "projectName" : "CHE",
+  "domainId" : 82,
+  "domainName" : "CHETHAN",
+  "validationId" : 31517,
+  "validationName" : "copy_Test_databrick_RCA_policy_landing_clean_test_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-21T09:39:49.354Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31517_1779356388693.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
