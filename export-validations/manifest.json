@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31541,
+  "validationName" : "Av_Toyo_source_avijit_source_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-22T07:17:40.062Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31541_1779434259751.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
