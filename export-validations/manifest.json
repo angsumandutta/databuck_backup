@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31560,
+  "validationName" : "tesr_data_test_dataset_1_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-25T05:55:10.662Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31560_1779688510433.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
