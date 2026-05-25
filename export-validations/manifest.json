@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 81,
+  "projectName" : "CHE",
+  "domainId" : 82,
+  "domainName" : "CHETHAN",
+  "validationId" : 31558,
+  "validationName" : "rca_test_on_banking_bank_txn_stage_clean_test_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-25T05:52:13.538Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31558_1779688333330.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
