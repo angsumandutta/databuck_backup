@@ -9,10 +9,10 @@
   "validationId" : 27919,
   "validationName" : "test_jira_11_02",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-05-25T13:01:04.324Z",
+  "exportedAt" : "2026-05-25T16:28:36.369Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "27919_1779694259307.zip",
+    "name" : "27919_1779706715798.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
