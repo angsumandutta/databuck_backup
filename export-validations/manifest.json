@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 159,
+  "projectName" : "AD",
+  "domainId" : 144,
+  "domainName" : "Testing_QA-",
+  "validationId" : 27803,
+  "validationName" : "AD_TableA_pdq_hist_microseg_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-25T22:17:19.390Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "27803_1779747439220.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
