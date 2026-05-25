@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31567,
+  "validationName" : "toyo_new_inc",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-25T06:50:10.044Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31567_1779691809886.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
