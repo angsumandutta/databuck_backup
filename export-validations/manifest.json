@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 78,
+  "projectName" : "_DG",
+  "domainId" : 77,
+  "domainName" : "Quality",
+  "validationId" : 31572,
+  "validationName" : "DC_7182_TERA_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-25T07:36:11.150Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31572_1779694570983.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
