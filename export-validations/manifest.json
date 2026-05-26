@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 69,
+  "projectName" : "TestNew1",
+  "domainId" : 68,
+  "domainName" : "MSSQL",
+  "validationId" : 31661,
+  "validationName" : "copy_db2_his_new_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T12:47:40.600Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31661_1779799660212.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
