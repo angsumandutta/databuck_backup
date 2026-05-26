@@ -9,10 +9,10 @@
   "validationId" : 31647,
   "validationName" : "where_table_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-05-26T11:32:54.436Z",
+  "exportedAt" : "2026-05-26T11:51:26.729Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31647_1779795168751.zip",
+    "name" : "31647_1779796286485.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
