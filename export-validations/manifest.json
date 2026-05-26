@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 81,
+  "projectName" : "CHE",
+  "domainId" : 82,
+  "domainName" : "CHETHAN",
+  "validationId" : 31615,
+  "validationName" : "extreem_excld_outlier_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T07:45:00.222Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31615_1779781500051.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
