@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 148,
+  "projectName" : "Rut_Loan",
+  "domainId" : 129,
+  "domainName" : "Rajtesting",
+  "validationId" : 31646,
+  "validationName" : "Query_condition_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T11:25:51.058Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31646_1779794746861.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
