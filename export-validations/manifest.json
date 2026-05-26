@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 159,
+  "projectName" : "AD",
+  "domainId" : 144,
+  "domainName" : "Testing_QA-",
+  "validationId" : 31644,
+  "validationName" : "test_nonpdq_AVIJIT_SOURCE_NEW",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T11:05:29.503Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31644_1779793529311.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
