@@ -6,13 +6,13 @@
   "projectName" : "Rut_Loan",
   "domainId" : 129,
   "domainName" : "Rajtesting",
-  "validationId" : 31628,
+  "validationId" : 31636,
   "validationName" : "Bulk_distri_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-05-26T08:51:53.737Z",
+  "exportedAt" : "2026-05-26T09:43:22.858Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31628_1779785513497.zip",
+    "name" : "31636_1779788602473.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
