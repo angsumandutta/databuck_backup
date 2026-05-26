@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 69,
+  "projectName" : "TestNew1",
+  "domainId" : 68,
+  "domainName" : "MSSQL",
+  "validationId" : 31601,
+  "validationName" : "rca_exclude_outlier_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T05:55:39.661Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31601_1779774939369.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
