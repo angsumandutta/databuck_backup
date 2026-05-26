@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 148,
+  "projectName" : "Rut_Loan",
+  "domainId" : 129,
+  "domainName" : "Rajtesting",
+  "validationId" : 31588,
+  "validationName" : "DB2_NPDQ_TEST_DATA_BV_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T05:45:17.642Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31588_1779774315493.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
