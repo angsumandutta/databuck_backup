@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 159,
+  "projectName" : "AD",
+  "domainId" : 144,
+  "domainName" : "Testing_QA-",
+  "validationId" : 31662,
+  "validationName" : "vj_ddm",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T13:03:44.519Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31662_1779800624345.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
