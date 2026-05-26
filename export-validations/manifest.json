@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 69,
+  "projectName" : "TestNew1",
+  "domainId" : 68,
+  "domainName" : "MSSQL",
+  "validationId" : 31606,
+  "validationName" : "micro_rca_outlier_logic_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T06:35:33.267Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31606_1779777333066.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
