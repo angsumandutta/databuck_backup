@@ -9,10 +9,10 @@
   "validationId" : 27803,
   "validationName" : "AD_TableA_pdq_hist_microseg_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-05-25T22:17:19.390Z",
+  "exportedAt" : "2026-05-26T15:40:25.694Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "27803_1779747439220.zip",
+    "name" : "27803_1779810025322.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
