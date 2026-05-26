@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 159,
+  "projectName" : "AD",
+  "domainId" : 144,
+  "domainName" : "Testing_QA-",
+  "validationId" : 31663,
+  "validationName" : "copy_vj_ddmmicro",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T13:43:14.624Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31663_1779802994283.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
