@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 21,
+  "projectName" : "TestingMaster",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 31652,
+  "validationName" : "Bulk_val_DB2",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-26T12:33:49.469Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31652_1779798829249.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
