@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 68,
+  "projectName" : "_VB",
+  "domainId" : 74,
+  "domainName" : "Matching_",
+  "validationId" : 30385,
+  "validationName" : "s3_hisinc_source_parquet_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-05-28T11:38:44.908Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "30385_1779968324731.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
