@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31694,
+  "validationName" : "test_27",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T05:06:36.616Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31694_1780376796418.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
