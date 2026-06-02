@@ -1,1 +1,1 @@
-{}
+{"ddmMetrics":[{"definitionName":"bv_ddm","tagId":[],"createdByUser":"Admin User","threshold":3,"tableName":"27377_Bv_user_bv_test_data","queryType":"-","metricsQueryFilter":"","idApp":31544,"createdAt":"2026-06-02 04:37:53.809561","metricFunctionName":"avg","tableId":27377,"microSegmentColumnNames":"CITY,EMP_ID","isCritical":"N","id":1875,"updatedAt":"2026-06-02 04:37:53.809561","dimensions":"Validity","columnName":"SALARY_EMP"}]}
