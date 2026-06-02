@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31699,
+  "validationName" : "pdq_wif_brules_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T09:32:27.654Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31699_1780392747404.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
