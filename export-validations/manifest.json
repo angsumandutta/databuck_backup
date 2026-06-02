@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31708,
+  "validationName" : "Cy_TN_BE_Cyclicality_Test1_new_1_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T10:42:52.255Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31708_1780396972069.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
