@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 148,
+  "projectName" : "Rut_Loan",
+  "domainId" : 129,
+  "domainName" : "Rajtesting",
+  "validationId" : 31700,
+  "validationName" : "Bcuk_rules_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T09:48:12.400Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31700_1780393692203.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
