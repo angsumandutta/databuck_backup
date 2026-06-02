@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 371,
+  "validationName" : "Test_DataSet_v_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T05:21:04.064Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "371_1780357863794.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
