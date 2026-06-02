@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31704,
+  "validationName" : "pdf_wif_brules_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T09:57:53.687Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31704_1780394273453.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
