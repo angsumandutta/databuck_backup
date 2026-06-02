@@ -9,10 +9,10 @@
   "validationId" : 31704,
   "validationName" : "pdf_wif_brules_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-02T09:57:53.687Z",
+  "exportedAt" : "2026-06-02T09:59:22.379Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31704_1780394273453.zip",
+    "name" : "31704_1780394362080.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
