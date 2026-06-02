@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 78,
+  "projectName" : "_DG",
+  "domainId" : 77,
+  "domainName" : "Quality",
+  "validationId" : 31706,
+  "validationName" : "VZ_BigNum_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-02T10:21:41.233Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31706_1780395700693.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
