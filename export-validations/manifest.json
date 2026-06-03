@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31743,
+  "validationName" : "BV_ZZ_cust_BV_TEST_DATA_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T08:07:43.338Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31743_1780474063140.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
