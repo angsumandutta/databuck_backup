@@ -9,10 +9,10 @@
   "validationId" : 31723,
   "validationName" : "auto_manuf_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-03T03:58:47.269Z",
+  "exportedAt" : "2026-06-03T09:51:22.761Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31723_1780459126881.zip",
+    "name" : "31723_1780480282439.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
