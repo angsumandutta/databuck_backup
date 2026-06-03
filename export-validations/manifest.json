@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 66,
+  "projectName" : "BigQueryTesting",
+  "domainId" : 64,
+  "domainName" : "BigQuery",
+  "validationId" : 31780,
+  "validationName" : "Opensearch_fe_mongodb_test_v2_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T21:40:57.636Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31780_1780522857452.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
