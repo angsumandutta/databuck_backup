@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 69,
+  "projectName" : "TestNew1",
+  "domainId" : 68,
+  "domainName" : "MSSQL",
+  "validationId" : 25364,
+  "validationName" : "regression_test_pdq",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T09:04:20.323Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "25364_1780477460109.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
