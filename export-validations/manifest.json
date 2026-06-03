@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31735,
+  "validationName" : "auto_producation_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T06:22:30.520Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31735_1780467750142.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
