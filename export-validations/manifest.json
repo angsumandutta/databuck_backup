@@ -9,10 +9,10 @@
   "validationId" : 31725,
   "validationName" : "pdq_auto_manu_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-03T04:42:08.506Z",
+  "exportedAt" : "2026-06-03T09:51:25.898Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31725_1780461728209.zip",
+    "name" : "31725_1780480285539.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
