@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31769,
+  "validationName" : "banking_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T12:46:01.560Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31769_1780490761355.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
