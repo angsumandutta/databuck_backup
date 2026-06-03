@@ -9,10 +9,10 @@
   "validationId" : 31671,
   "validationName" : "Test_DB2_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-03T10:06:20.018Z",
+  "exportedAt" : "2026-06-03T12:11:57.039Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31671_1780481179822.zip",
+    "name" : "31671_1780488716867.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
