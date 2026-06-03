@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 66,
+  "projectName" : "BigQueryTesting",
+  "domainId" : 64,
+  "domainName" : "BigQuery",
+  "validationId" : 31777,
+  "validationName" : "Opensearch_databuck_index_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T21:52:39.763Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31777_1780523559602.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
