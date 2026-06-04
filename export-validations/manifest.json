@@ -9,10 +9,10 @@
   "validationId" : 31779,
   "validationName" : "Opensearch_databuck_index_test_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-04T02:46:16.362Z",
+  "exportedAt" : "2026-06-04T02:46:55.275Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31779_1780541175541.zip",
+    "name" : "31779_1780541210959.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
