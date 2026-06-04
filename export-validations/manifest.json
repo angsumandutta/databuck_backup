@@ -9,10 +9,10 @@
   "validationId" : 31701,
   "validationName" : "avijit_source_table_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-03T11:24:57.059Z",
+  "exportedAt" : "2026-06-04T04:48:54.774Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31701_1780485896834.zip",
+    "name" : "31701_1780548534404.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
