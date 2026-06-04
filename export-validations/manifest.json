@@ -9,10 +9,10 @@
   "validationId" : 31785,
   "validationName" : "Opensearch_sales_target_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-04T02:46:30.895Z",
+  "exportedAt" : "2026-06-04T02:46:46.379Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31785_1780541188459.zip",
+    "name" : "31785_1780541201353.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
