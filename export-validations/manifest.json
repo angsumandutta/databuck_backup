@@ -9,10 +9,10 @@
   "validationId" : 31776,
   "validationName" : "crm_customers_orders_OpenSearch_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-03T22:00:03.630Z",
+  "exportedAt" : "2026-06-04T02:46:16.456Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31776_1780524003437.zip",
+    "name" : "31776_1780541175868.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
