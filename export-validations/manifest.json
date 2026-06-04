@@ -9,10 +9,10 @@
   "validationId" : 31784,
   "validationName" : "Opensearch_movies_index_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-04T02:46:52.205Z",
+  "exportedAt" : "2026-06-04T02:48:28.941Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31784_1780541206211.zip",
+    "name" : "31784_1780541302494.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
