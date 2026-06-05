@@ -9,10 +9,10 @@
   "validationId" : 31768,
   "validationName" : "auto_manuf_Validation",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-05T12:07:19.767Z",
+  "exportedAt" : "2026-06-05T12:55:48.342Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31768_1780661239602.zip",
+    "name" : "31768_1780664147865.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ]
