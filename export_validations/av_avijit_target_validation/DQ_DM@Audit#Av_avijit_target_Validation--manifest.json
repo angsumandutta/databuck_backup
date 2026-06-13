@@ -1,0 +1,20 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 142,
+  "projectName" : "Audit",
+  "domainId" : 156,
+  "domainName" : "DQ_DM",
+  "validationId" : 31676,
+  "validationName" : "Av_avijit_target_Validation",
+  "uniqueId" : "ImpExp_31676_1781355077777",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-13T18:21:35.768Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31676_1781355078711.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
