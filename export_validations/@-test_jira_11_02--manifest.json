@@ -8,14 +8,14 @@
   "domainName" : "",
   "validationId" : 27919,
   "validationName" : "test_jira_11_02",
-  "uniqueId" : "ImpExp_27919_1781515257972",
+  "uniqueId" : "ImpExp_27919_1781521265035",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-15T14:50:58.040Z",
+  "exportedAt" : "2026-06-15T16:31:05.172Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "27919_1781515257974.zip",
+    "name" : "27919_1781521265039.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
-  "validationKey" : "@#test_jira_11_02"
+  "validationKey" : "@-test_jira_11_02"
 }
