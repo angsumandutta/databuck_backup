@@ -8,13 +8,14 @@
   "domainName" : "DQ_DM",
   "validationId" : 31676,
   "validationName" : "Av_avijit_target_Validation",
-  "uniqueId" : "ImpExp_31676_1781485575488",
+  "uniqueId" : "ImpExp_31676_1781498462577",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-15T06:36:15.894Z",
+  "exportedAt" : "2026-06-15T10:13:38.661Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31676_1781485575516.zip",
+    "name" : "31676_1781498494594.zip",
     "checksum" : null
   } ],
-  "supportsImportModes" : [ "new", "update" ]
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "DQ_DM@Audit#Av_avijit_target_Validation"
 }
