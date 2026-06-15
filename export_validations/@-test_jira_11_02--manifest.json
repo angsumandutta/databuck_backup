@@ -8,12 +8,12 @@
   "domainName" : "",
   "validationId" : 27919,
   "validationName" : "test_jira_11_02",
-  "uniqueId" : "ImpExp_27919_1781522223387",
+  "uniqueId" : "ImpExp_27919_1781522606160",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-15T16:47:03.462Z",
+  "exportedAt" : "2026-06-15T16:53:26.238Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "27919_1781522223387.zip",
+    "name" : "27919_1781522606165.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
