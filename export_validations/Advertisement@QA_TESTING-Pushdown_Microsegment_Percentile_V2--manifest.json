@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32056,
+  "validationName" : "Pushdown_Microsegment_Percentile_V2",
+  "uniqueId" : "ImpExp_32056_1781596271977",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-16T07:51:12.331Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32056_1781596271981.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@QA_TESTING-Pushdown_Microsegment_Percentile_V2"
+}
