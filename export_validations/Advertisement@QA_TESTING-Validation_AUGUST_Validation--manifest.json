@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32035,
+  "validationName" : "Validation_AUGUST_Validation",
+  "uniqueId" : "ImpExp_32035_1781596278656",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-16T07:51:18.943Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32035_1781596278658.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@QA_TESTING-Validation_AUGUST_Validation"
+}
