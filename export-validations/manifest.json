@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31725,
+  "validationName" : "pdq_auto_manu_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T09:51:25.898Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31725_1780480285539.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
