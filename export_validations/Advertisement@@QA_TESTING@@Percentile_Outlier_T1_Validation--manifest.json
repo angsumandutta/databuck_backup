@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 31954,
+  "validationName" : "Percentile_Outlier_T1_Validation",
+  "uniqueId" : "ImpExp_31954_1781683432615",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:03:52.847Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31954_1781683432617.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@Percentile_Outlier_T1_Validation"
+}
