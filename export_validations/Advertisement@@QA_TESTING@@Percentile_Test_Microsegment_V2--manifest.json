@@ -8,12 +8,12 @@
   "domainName" : "Advertisement",
   "validationId" : 31960,
   "validationName" : "Percentile_Test_Microsegment_V2",
-  "uniqueId" : "ImpExp_31960_1781693595985",
+  "uniqueId" : "ImpExp_31960_1781693689715",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-17T10:53:16.209Z",
+  "exportedAt" : "2026-06-17T10:54:49.984Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "31960_1781693595987.zip",
+    "name" : "31960_1781693689717.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
