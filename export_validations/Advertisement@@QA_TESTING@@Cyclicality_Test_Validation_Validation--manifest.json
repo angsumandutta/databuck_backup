@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32014,
+  "validationName" : "Cyclicality_Test_Validation_Validation",
+  "uniqueId" : "ImpExp_32014_1781694527734",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T11:08:47.965Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32014_1781694527736.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@Cyclicality_Test_Validation_Validation"
+}
