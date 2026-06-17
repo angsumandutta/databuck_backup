@@ -8,12 +8,12 @@
   "domainName" : "Advertisement",
   "validationId" : 32035,
   "validationName" : "Validation_AUGUST_Validation",
-  "uniqueId" : "ImpExp_32035_1781597559065",
+  "uniqueId" : "ImpExp_32035_1781672499688",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-16T08:12:39.365Z",
+  "exportedAt" : "2026-06-17T05:01:39.964Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "32035_1781597559069.zip",
+    "name" : "32035_1781672499691.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
