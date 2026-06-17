@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 18,
+  "projectName" : "IT",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 32115,
+  "validationName" : "test_monitoring_17_Validation",
+  "uniqueId" : "ImpExp_32115_1781683950730",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:12:30.896Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32115_1781683950732.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@IT@@test_monitoring_17_Validation"
+}
