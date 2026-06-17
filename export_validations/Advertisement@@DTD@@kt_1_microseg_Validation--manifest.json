@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 152,
+  "projectName" : "DTD",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 22926,
+  "validationName" : "kt_1_microseg_Validation",
+  "uniqueId" : "ImpExp_22926_1781678895871",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T06:48:16.101Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "22926_1781678895873.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@DTD@@kt_1_microseg_Validation"
+}
