@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 30350,
+  "validationName" : "RCA_Test_14th_Val",
+  "uniqueId" : "ImpExp_30350_1781680526159",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T07:15:26.380Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "30350_1781680526162.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@RCA_Test_14th_Val"
+}
