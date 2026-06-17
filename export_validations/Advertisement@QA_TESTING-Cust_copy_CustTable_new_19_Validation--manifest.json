@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 31441,
+  "validationName" : "Cust_copy_CustTable_new_19_Validation",
+  "uniqueId" : "ImpExp_31441_1781672818420",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T05:06:58.671Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31441_1781672818422.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@QA_TESTING-Cust_copy_CustTable_new_19_Validation"
+}
