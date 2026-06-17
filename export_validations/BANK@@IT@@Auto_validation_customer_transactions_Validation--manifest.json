@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 18,
+  "projectName" : "IT",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 29183,
+  "validationName" : "Auto_validation_customer_transactions_Validation",
+  "uniqueId" : "ImpExp_29183_1781683960939",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:12:41.122Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "29183_1781683960942.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@IT@@Auto_validation_customer_transactions_Validation"
+}
