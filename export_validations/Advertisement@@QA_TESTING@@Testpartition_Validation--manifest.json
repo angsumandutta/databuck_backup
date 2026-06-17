@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32113,
+  "validationName" : "Testpartition_Validation",
+  "uniqueId" : "ImpExp_32113_1781679963334",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T07:06:03.603Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32113_1781679963337.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@Testpartition_Validation"
+}
