@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32129,
+  "validationName" : "hod_test_Validation",
+  "uniqueId" : "ImpExp_32129_1781782750106",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T11:39:10.368Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32129_1781782750109.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@hod_test_Validation"
+}
