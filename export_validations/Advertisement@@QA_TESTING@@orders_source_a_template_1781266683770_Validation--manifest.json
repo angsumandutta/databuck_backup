@@ -8,12 +8,12 @@
   "domainName" : "Advertisement",
   "validationId" : 32021,
   "validationName" : "orders_source_a_template_1781266683770_Validation",
-  "uniqueId" : "ImpExp_32021_1781765598301",
+  "uniqueId" : "ImpExp_32021_1781786601437",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-18T06:53:18.641Z",
+  "exportedAt" : "2026-06-18T12:43:21.648Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "32021_1781765598305.zip",
+    "name" : "32021_1781786601440.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
