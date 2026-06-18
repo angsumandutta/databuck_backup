@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 21,
+  "projectName" : "TestingMaster",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 31853,
+  "validationName" : "test_DT_BQ",
+  "uniqueId" : "ImpExp_31853_1781767813175",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T07:30:13.344Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31853_1781767813178.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@TestingMaster@@test_DT_BQ"
+}
