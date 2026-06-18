@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 31349,
+  "validationName" : "DK_NEW_template_1778754203661_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-10T02:36:31.243Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31349_1781058990997.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
