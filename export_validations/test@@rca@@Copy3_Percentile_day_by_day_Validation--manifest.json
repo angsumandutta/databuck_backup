@@ -8,12 +8,12 @@
   "domainName" : "test",
   "validationId" : 3534,
   "validationName" : "Copy3_Percentile_day_by_day_Validation",
-  "uniqueId" : "ImpExp_3534_1781805076530",
+  "uniqueId" : "ImpExp_3534_1781805080300",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-18T17:51:16.595Z",
+  "exportedAt" : "2026-06-18T17:51:20.348Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "3534_1781805076533.zip",
+    "name" : "3534_1781805080303.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
