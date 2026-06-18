@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 159,
+  "projectName" : "AD",
+  "domainId" : 144,
+  "domainName" : "Testing_QA-",
+  "validationId" : 31705,
+  "validationName" : "avijit_source_bq_Validation",
+  "uniqueId" : "ImpExp_31705_1781786740992",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T12:45:41.244Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31705_1781786740994.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Testing_QA-@@AD@@avijit_source_bq_Validation"
+}
