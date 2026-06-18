@@ -8,12 +8,12 @@
   "domainName" : "Advertisement",
   "validationId" : 32056,
   "validationName" : "Pushdown_Microsegment_Percentile_V2",
-  "uniqueId" : "ImpExp_32056_1781698248628",
+  "uniqueId" : "ImpExp_32056_1781768475701",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-17T12:10:48.996Z",
+  "exportedAt" : "2026-06-18T07:41:15.933Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "32056_1781698248632.zip",
+    "name" : "32056_1781768475703.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
