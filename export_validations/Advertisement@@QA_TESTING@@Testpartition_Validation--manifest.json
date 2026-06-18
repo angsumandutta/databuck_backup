@@ -8,12 +8,12 @@
   "domainName" : "Advertisement",
   "validationId" : 32113,
   "validationName" : "Testpartition_Validation",
-  "uniqueId" : "ImpExp_32113_1781768479047",
+  "uniqueId" : "ImpExp_32113_1781778864835",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-18T07:41:19.269Z",
+  "exportedAt" : "2026-06-18T10:34:25.089Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "32113_1781768479049.zip",
+    "name" : "32113_1781778864840.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
