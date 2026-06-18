@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3535,
+  "validationName" : "Copy4_Percentile_day_by_day_Validation",
+  "uniqueId" : "ImpExp_3535_1781799759452",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T16:22:39.485Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3535_1781799759454.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@Copy4_Percentile_day_by_day_Validation"
+}
