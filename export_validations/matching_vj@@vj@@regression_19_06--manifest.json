@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 29,
+  "projectName" : "vj",
+  "domainId" : 17,
+  "domainName" : "matching_vj",
+  "validationId" : 3589,
+  "validationName" : "regression_19_06",
+  "uniqueId" : "ImpExp_3589_1781868417772",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T11:26:57.843Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3589_1781868417775.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "matching_vj@@vj@@regression_19_06"
+}
