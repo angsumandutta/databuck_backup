@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 1,
+  "domainName" : "Banking",
+  "validationId" : 3540,
+  "validationName" : "Telecom35colsDataPDQ_Validation",
+  "uniqueId" : "ImpExp_3540_1781848211757",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T05:50:11.867Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3540_1781848211785.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Banking@@Testing@@Telecom35colsDataPDQ_Validation"
+}
