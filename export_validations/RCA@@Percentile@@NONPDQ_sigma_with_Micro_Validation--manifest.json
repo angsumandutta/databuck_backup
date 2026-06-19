@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 43,
+  "projectName" : "Percentile",
+  "domainId" : 38,
+  "domainName" : "RCA",
+  "validationId" : 3585,
+  "validationName" : "NONPDQ_sigma_with_Micro_Validation",
+  "uniqueId" : "ImpExp_3585_1781867599447",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T11:13:19.480Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3585_1781867599449.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "RCA@@Percentile@@NONPDQ_sigma_with_Micro_Validation"
+}
