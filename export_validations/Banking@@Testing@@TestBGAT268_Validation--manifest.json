@@ -8,12 +8,12 @@
   "domainName" : "Banking",
   "validationId" : 3536,
   "validationName" : "TestBGAT268_Validation",
-  "uniqueId" : "ImpExp_3536_1781849974850",
+  "uniqueId" : "ImpExp_3536_1781850162186",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-19T06:19:34.893Z",
+  "exportedAt" : "2026-06-19T06:22:42.227Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "3536_1781849974853.zip",
+    "name" : "3536_1781850162188.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
