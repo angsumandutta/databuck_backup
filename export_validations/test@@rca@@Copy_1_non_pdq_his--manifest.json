@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3571,
+  "validationName" : "Copy_1_non_pdq_his",
+  "uniqueId" : "ImpExp_3571_1781855073587",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:44:33.677Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3571_1781855073591.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@Copy_1_non_pdq_his"
+}
