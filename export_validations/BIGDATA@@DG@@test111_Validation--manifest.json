@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 26,
+  "projectName" : "DG",
+  "domainId" : 22,
+  "domainName" : "BIGDATA",
+  "validationId" : 3097,
+  "validationName" : "test111_Validation",
+  "uniqueId" : "ImpExp_3097_1781854448982",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:34:09.016Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3097_1781854448984.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BIGDATA@@DG@@test111_Validation"
+}
