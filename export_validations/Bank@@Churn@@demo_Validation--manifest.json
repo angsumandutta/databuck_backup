@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 31,
+  "projectName" : "Churn",
+  "domainId" : 31,
+  "domainName" : "Bank",
+  "validationId" : 3226,
+  "validationName" : "demo_Validation",
+  "uniqueId" : "ImpExp_3226_1781848911253",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T06:01:51.296Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3226_1781848911255.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Bank@@Churn@@demo_Validation"
+}
