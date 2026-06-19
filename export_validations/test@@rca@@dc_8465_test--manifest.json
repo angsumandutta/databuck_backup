@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3550,
+  "validationName" : "dc_8465_test",
+  "uniqueId" : "ImpExp_3550_1781848240426",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T05:50:40.496Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3550_1781848240437.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@dc_8465_test"
+}
