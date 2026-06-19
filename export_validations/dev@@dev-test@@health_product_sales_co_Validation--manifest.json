@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 374,
+  "validationName" : "health_product_sales_co_Validation",
+  "uniqueId" : "ImpExp_374_1781862719929",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T15:23:14.081Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "374_1781862720073.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@health_product_sales_co_Validation"
+}
