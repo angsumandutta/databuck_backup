@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 32,
+  "domainName" : "Matching_FM",
+  "validationId" : 3560,
+  "validationName" : "TestBGAT268_Validation_Validation",
+  "uniqueId" : "ImpExp_3560_1781850889649",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T06:34:49.684Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3560_1781850889651.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Matching_FM@@Testing@@TestBGAT268_Validation_Validation"
+}
