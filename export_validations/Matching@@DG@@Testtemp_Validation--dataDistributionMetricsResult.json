@@ -1,1 +1,1 @@
-{}
+{"ddmMetrics":[{"definitionName":"rc","tagId":[],"createdByUser":"Admin User","threshold":3,"domainId":11,"tableName":"4221_Testtemp","queryType":"-","metricsQueryFilter":"","idApp":3249,"createdAt":"2026-06-19 07:23:11.087473","domainName":"Matching","metricFunctionName":"count","tableId":4221,"microSegmentColumnNames":"","isCritical":"N","id":246,"projectName":"DG","projectId":26,"updatedAt":"2026-06-19 07:23:11.087473","dimensions":"Accuracy","columnName":"Country"}]}
