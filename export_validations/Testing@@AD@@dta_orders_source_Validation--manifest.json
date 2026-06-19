@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 32,
+  "projectName" : "AD",
+  "domainId" : 21,
+  "domainName" : "Testing",
+  "validationId" : 3400,
+  "validationName" : "dta_orders_source_Validation",
+  "uniqueId" : "ImpExp_3400_1781848426202",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T05:53:46.254Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3400_1781848426205.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Testing@@AD@@dta_orders_source_Validation"
+}
