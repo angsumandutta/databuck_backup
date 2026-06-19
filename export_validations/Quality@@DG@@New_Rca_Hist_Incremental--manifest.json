@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 26,
+  "projectName" : "DG",
+  "domainId" : 12,
+  "domainName" : "Quality",
+  "validationId" : 3572,
+  "validationName" : "New_Rca_Hist_Incremental",
+  "uniqueId" : "ImpExp_3572_1781855865277",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:57:45.326Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3572_1781855865280.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Quality@@DG@@New_Rca_Hist_Incremental"
+}
