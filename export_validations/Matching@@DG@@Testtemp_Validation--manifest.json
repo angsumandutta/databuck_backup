@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 26,
+  "projectName" : "DG",
+  "domainId" : 11,
+  "domainName" : "Matching",
+  "validationId" : 3249,
+  "validationName" : "Testtemp_Validation",
+  "uniqueId" : "ImpExp_3249_1781853711444",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:21:51.482Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3249_1781853711446.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Matching@@DG@@Testtemp_Validation"
+}
