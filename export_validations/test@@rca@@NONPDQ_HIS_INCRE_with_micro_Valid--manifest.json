@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3597,
+  "validationName" : "NONPDQ_HIS_INCRE_with_micro_Valid",
+  "uniqueId" : "ImpExp_3597_1781872693716",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T12:38:13.755Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3597_1781872693718.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@NONPDQ_HIS_INCRE_with_micro_Valid"
+}
