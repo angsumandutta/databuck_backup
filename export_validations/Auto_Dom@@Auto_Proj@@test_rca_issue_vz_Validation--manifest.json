@@ -8,12 +8,12 @@
   "domainName" : "Auto_Dom",
   "validationId" : 3270,
   "validationName" : "test_rca_issue_vz_Validation",
-  "uniqueId" : "ImpExp_3270_1781836000779",
+  "uniqueId" : "ImpExp_3270_1781861150226",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-06-19T02:26:40.839Z",
+  "exportedAt" : "2026-06-19T09:25:50.270Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "3270_1781836000782.zip",
+    "name" : "3270_1781861150229.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
