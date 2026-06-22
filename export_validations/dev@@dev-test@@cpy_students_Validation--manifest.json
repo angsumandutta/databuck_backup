@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 387,
+  "validationName" : "cpy_students_Validation",
+  "uniqueId" : "ImpExp_387_1782118582167",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-22T14:26:22.552Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "387_1782118582173.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@cpy_students_Validation"
+}
