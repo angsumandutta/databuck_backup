@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3537,
+  "validationName" : "cicd_test_validation_krishna",
+  "uniqueId" : "ImpExp_3537_1781805096183",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T17:51:36.228Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3537_1781805096185.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@cicd_test_validation_krishna"
+}

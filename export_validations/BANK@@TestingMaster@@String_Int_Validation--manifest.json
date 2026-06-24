@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 21,
+  "projectName" : "TestingMaster",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 31886,
+  "validationName" : "String_Int_Validation",
+  "uniqueId" : "ImpExp_31886_1781767802294",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T07:30:02.489Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31886_1781767802296.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@TestingMaster@@String_Int_Validation"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 26,
+  "projectName" : "DG",
+  "domainId" : 12,
+  "domainName" : "Quality",
+  "validationId" : 3598,
+  "validationName" : "RCA_DAY_By_Day_DateChange",
+  "uniqueId" : "ImpExp_3598_1781872923350",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T12:42:03.389Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3598_1781872923352.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Quality@@DG@@RCA_DAY_By_Day_DateChange"
+}

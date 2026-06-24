@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32019,
+  "validationName" : "orders_source_a_template_1781266662399_Validation",
+  "uniqueId" : "ImpExp_32019_1781779352364",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T10:42:32.567Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32019_1781779352367.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@orders_source_a_template_1781266662399_Validation"
+}

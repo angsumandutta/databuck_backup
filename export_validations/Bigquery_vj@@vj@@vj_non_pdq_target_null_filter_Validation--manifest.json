@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 157,
+  "projectName" : "vj",
+  "domainId" : 147,
+  "domainName" : "Bigquery_vj",
+  "validationId" : 31106,
+  "validationName" : "vj_non_pdq_target_null_filter_Validation",
+  "uniqueId" : "ImpExp_31106_1781788325387",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T13:12:05.654Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31106_1781788325389.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Bigquery_vj@@vj@@vj_non_pdq_target_null_filter_Validation"
+}

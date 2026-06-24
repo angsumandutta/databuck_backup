@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 32,
+  "projectName" : "AD",
+  "domainId" : 21,
+  "domainName" : "Testing",
+  "validationId" : 3553,
+  "validationName" : "cicd_test1_validation",
+  "uniqueId" : "ImpExp_3553_1781873569309",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T12:52:49.361Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3553_1781873569311.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Testing@@AD@@cicd_test1_validation"
+}

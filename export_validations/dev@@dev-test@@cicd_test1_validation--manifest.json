@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 386,
+  "validationName" : "cicd_test1_validation",
+  "uniqueId" : "ImpExp_386_1782133013594",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-22T18:26:53.687Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "386_1782133013597.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@cicd_test1_validation"
+}

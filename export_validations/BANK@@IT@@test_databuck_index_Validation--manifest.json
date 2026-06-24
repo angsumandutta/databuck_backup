@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 18,
+  "projectName" : "IT",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 31681,
+  "validationName" : "test_databuck_index_Validation",
+  "uniqueId" : "ImpExp_31681_1781683957562",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:12:37.735Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31681_1781683957564.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@IT@@test_databuck_index_Validation"
+}

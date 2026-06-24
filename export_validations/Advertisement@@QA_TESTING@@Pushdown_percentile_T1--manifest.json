@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 32052,
+  "validationName" : "Pushdown_percentile_T1",
+  "uniqueId" : "ImpExp_32052_1781778162888",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T10:22:43.198Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32052_1781778162891.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@Pushdown_percentile_T1"
+}

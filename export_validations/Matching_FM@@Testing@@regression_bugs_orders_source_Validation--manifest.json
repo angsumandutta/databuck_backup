@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 32,
+  "domainName" : "Matching_FM",
+  "validationId" : 3305,
+  "validationName" : "regression_bugs_orders_source_Validation",
+  "uniqueId" : "ImpExp_3305_1781853511098",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:18:31.131Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3305_1781853511100.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Matching_FM@@Testing@@regression_bugs_orders_source_Validation"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3271,
+  "validationName" : "rca_check_bulk_Validation",
+  "uniqueId" : "ImpExp_3271_1781867102178",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T11:05:02.225Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3271_1781867102180.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@rca_check_bulk_Validation"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 18,
+  "projectName" : "IT",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 29182,
+  "validationName" : "Auto_validation_employee_salarya_Validation",
+  "uniqueId" : "ImpExp_29182_1781683964453",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:12:44.635Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "29182_1781683964455.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@IT@@Auto_validation_employee_salarya_Validation"
+}

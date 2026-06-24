@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 376,
+  "validationName" : "refresh_metedata_DELTALKAE_Validation",
+  "uniqueId" : "ImpExp_376_1781864546328",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T15:52:26.501Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "376_1781864546334.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@refresh_metedata_DELTALKAE_Validation"
+}

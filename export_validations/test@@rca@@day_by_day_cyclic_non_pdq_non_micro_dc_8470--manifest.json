@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3599,
+  "validationName" : "day_by_day_cyclic_non_pdq_non_micro_dc_8470",
+  "uniqueId" : "ImpExp_3599_1781873006045",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T12:43:26.090Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3599_1781873006047.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@day_by_day_cyclic_non_pdq_non_micro_dc_8470"
+}
