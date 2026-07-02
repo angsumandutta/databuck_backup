@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 390,
+  "validationName" : "pdq_custom_test_1",
+  "uniqueId" : "ImpExp_390_1782970131442",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-02T10:58:51.578Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "390_1782970131448.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@pdq_custom_test_1"
+}
