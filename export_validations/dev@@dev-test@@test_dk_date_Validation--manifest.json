@@ -8,12 +8,12 @@
   "domainName" : "dev",
   "validationId" : 396,
   "validationName" : "test_dk_date_Validation",
-  "uniqueId" : "ImpExp_396_1782972736518",
+  "uniqueId" : "ImpExp_396_1783057941019",
   "exportedBy" : "Admin User",
-  "exportedAt" : "2026-07-02T11:42:16.638Z",
+  "exportedAt" : "2026-07-03T11:22:21.269Z",
   "exportMode" : "git",
   "files" : [ {
-    "name" : "396_1782972736522.zip",
+    "name" : "396_1783057941072.zip",
     "checksum" : null
   } ],
   "supportsImportModes" : [ "new", "update" ],
