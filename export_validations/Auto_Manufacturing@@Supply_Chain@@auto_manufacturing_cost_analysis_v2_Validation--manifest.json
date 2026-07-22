@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 34,
+  "projectName" : "Supply_Chain",
+  "domainId" : 27,
+  "domainName" : "Auto_Manufacturing",
+  "validationId" : 4678,
+  "validationName" : "auto_manufacturing_cost_analysis_v2_Validation",
+  "uniqueId" : "ImpExp_4678_1784744839149",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-22T18:27:19.270Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4678_1784744839157.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Manufacturing@@Supply_Chain@@auto_manufacturing_cost_analysis_v2_Validation"
+}
