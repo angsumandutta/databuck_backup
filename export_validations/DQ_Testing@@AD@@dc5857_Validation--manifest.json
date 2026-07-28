@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 32,
+  "projectName" : "AD",
+  "domainId" : 39,
+  "domainName" : "DQ_Testing",
+  "validationId" : 4612,
+  "validationName" : "dc5857_Validation",
+  "uniqueId" : "ImpExp_4612_1785214535571",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-28T04:55:35.806Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4612_1785214535580.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "DQ_Testing@@AD@@dc5857_Validation"
+}
