@@ -1,0 +1,19 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "UNKNOWN",
+  "projectId" : 76,
+  "projectName" : "sam_matching",
+  "domainId" : 75,
+  "domainName" : "sam_matching1",
+  "validationId" : 31756,
+  "validationName" : "test123bv_Validation",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-03T10:08:16.708Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31756_1780481296508.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ]
+}
