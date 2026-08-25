@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 21,
+  "projectName" : "TestingMaster",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 32130,
+  "validationName" : "test_orders_RM_Validation",
+  "uniqueId" : "ImpExp_32130_1781785946798",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T12:32:27.059Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32130_1781785946801.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@TestingMaster@@test_orders_RM_Validation"
+}

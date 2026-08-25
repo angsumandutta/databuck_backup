@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 81,
+  "projectName" : "CHE",
+  "domainId" : 82,
+  "domainName" : "CHETHAN",
+  "validationId" : 32123,
+  "validationName" : "new_part_table__qa_template_1781688016430_Validation",
+  "uniqueId" : "ImpExp_32123_1781691391274",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T10:16:31.567Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32123_1781691391296.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "CHETHAN@@CHE@@new_part_table__qa_template_1781688016430_Validation"
+}

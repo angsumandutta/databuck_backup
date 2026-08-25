@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 50,
+  "projectName" : "CICD",
+  "domainId" : 51,
+  "domainName" : "ADTesting",
+  "validationId" : 5597,
+  "validationName" : "cyc_cust_8_Validation",
+  "uniqueId" : "ImpExp_5597_1787642457484",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-08-25T07:20:57.543Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "5597_1787642457489.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "ADTesting@@CICD@@cyc_cust_8_Validation"
+}

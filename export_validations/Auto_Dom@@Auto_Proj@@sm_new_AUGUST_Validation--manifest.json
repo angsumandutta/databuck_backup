@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3629,
+  "validationName" : "sm_new_AUGUST_Validation",
+  "uniqueId" : "ImpExp_3629_1784189091018",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-16T08:04:51.067Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3629_1784189091020.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@sm_new_AUGUST_Validation"
+}

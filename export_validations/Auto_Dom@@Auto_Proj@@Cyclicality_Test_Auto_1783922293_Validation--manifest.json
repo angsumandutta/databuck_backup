@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 4476,
+  "validationName" : "Cyclicality_Test_Auto_1783922293_Validation",
+  "uniqueId" : "ImpExp_4476_1784186573253",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-16T07:22:53.310Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4476_1784186573256.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@Cyclicality_Test_Auto_1783922293_Validation"
+}

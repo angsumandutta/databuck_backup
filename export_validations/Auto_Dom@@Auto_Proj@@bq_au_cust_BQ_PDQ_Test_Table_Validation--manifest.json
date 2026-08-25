@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3595,
+  "validationName" : "bq_au_cust_BQ_PDQ_Test_Table_Validation",
+  "uniqueId" : "ImpExp_3595_1781874834179",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T13:13:54.217Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3595_1781874834181.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@bq_au_cust_BQ_PDQ_Test_Table_Validation"
+}

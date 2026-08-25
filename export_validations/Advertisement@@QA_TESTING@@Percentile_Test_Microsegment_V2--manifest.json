@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 31960,
+  "validationName" : "Percentile_Test_Microsegment_V2",
+  "uniqueId" : "ImpExp_31960_1781693855706",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T10:57:36.041Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31960_1781693855709.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@Percentile_Test_Microsegment_V2"
+}

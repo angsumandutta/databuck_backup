@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 41,
+  "projectName" : "VZ",
+  "domainId" : 36,
+  "domainName" : "Verizon_qa",
+  "validationId" : 3545,
+  "validationName" : "percentile_cyc_dayofweek_Validation",
+  "uniqueId" : "ImpExp_3545_1781843148747",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T04:25:48.783Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3545_1781843148749.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Verizon_qa@@VZ@@percentile_cyc_dayofweek_Validation"
+}

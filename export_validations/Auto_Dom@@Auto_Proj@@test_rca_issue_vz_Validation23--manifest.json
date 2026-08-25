@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3558,
+  "validationName" : "test_rca_issue_vz_Validation23",
+  "uniqueId" : "ImpExp_3558_1781850156143",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T06:22:36.180Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3558_1781850156145.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@test_rca_issue_vz_Validation23"
+}

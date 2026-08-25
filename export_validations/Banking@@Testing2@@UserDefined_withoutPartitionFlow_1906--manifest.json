@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 18,
+  "projectName" : "Testing2",
+  "domainId" : 1,
+  "domainName" : "Banking",
+  "validationId" : 3561,
+  "validationName" : "UserDefined_withoutPartitionFlow_1906",
+  "uniqueId" : "ImpExp_3561_1781851239559",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T06:40:39.597Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3561_1781851239561.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Banking@@Testing2@@UserDefined_withoutPartitionFlow_1906"
+}

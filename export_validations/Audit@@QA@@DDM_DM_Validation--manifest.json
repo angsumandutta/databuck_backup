@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 141,
+  "projectName" : "QA",
+  "domainId" : 123,
+  "domainName" : "Audit",
+  "validationId" : 31913,
+  "validationName" : "DDM_DM_Validation",
+  "uniqueId" : "ImpExp_31913_1781677857009",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T06:30:57.286Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31913_1781677857013.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Audit@@QA@@DDM_DM_Validation"
+}

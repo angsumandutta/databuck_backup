@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 26118,
+  "validationName" : "MicroTest",
+  "uniqueId" : "ImpExp_26118_1781681699403",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T07:34:59.592Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "26118_1781681699405.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@MicroTest"
+}

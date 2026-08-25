@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3307,
+  "validationName" : "RCA_Banking_lineage_product_master_Validation",
+  "uniqueId" : "ImpExp_3307_1781861418413",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T09:30:18.464Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3307_1781861418416.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@RCA_Banking_lineage_product_master_Validation"
+}

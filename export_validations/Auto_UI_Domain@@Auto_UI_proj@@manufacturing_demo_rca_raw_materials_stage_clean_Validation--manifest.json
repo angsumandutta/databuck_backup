@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 56,
+  "projectName" : "Auto_UI_proj",
+  "domainId" : 53,
+  "domainName" : "Auto_UI_Domain",
+  "validationId" : 30974,
+  "validationName" : "manufacturing_demo_rca_raw_materials_stage_clean_Validation",
+  "uniqueId" : "ImpExp_30974_1781807851767",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T18:37:31.965Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "30974_1781807851769.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_UI_Domain@@Auto_UI_proj@@manufacturing_demo_rca_raw_materials_stage_clean_Validation"
+}

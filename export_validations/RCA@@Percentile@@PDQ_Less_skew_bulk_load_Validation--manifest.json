@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 43,
+  "projectName" : "Percentile",
+  "domainId" : 38,
+  "domainName" : "RCA",
+  "validationId" : 3573,
+  "validationName" : "PDQ_Less_skew_bulk_load_Validation",
+  "uniqueId" : "ImpExp_3573_1781860591574",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T09:16:31.625Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3573_1781860591577.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "RCA@@Percentile@@PDQ_Less_skew_bulk_load_Validation"
+}

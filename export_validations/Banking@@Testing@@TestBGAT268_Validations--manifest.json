@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 1,
+  "domainName" : "Banking",
+  "validationId" : 3557,
+  "validationName" : "TestBGAT268_Validations",
+  "uniqueId" : "ImpExp_3557_1781850054520",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T06:20:54.575Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3557_1781850054522.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Banking@@Testing@@TestBGAT268_Validations"
+}

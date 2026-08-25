@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 43,
+  "projectName" : "Percentile",
+  "domainId" : 38,
+  "domainName" : "RCA",
+  "validationId" : 4681,
+  "validationName" : "vz_dis_day_of_week_scenario_Validation_1",
+  "uniqueId" : "ImpExp_4681_1784785455282",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-23T05:44:15.320Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4681_1784785455285.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "RCA@@Percentile@@vz_dis_day_of_week_scenario_Validation_1"
+}

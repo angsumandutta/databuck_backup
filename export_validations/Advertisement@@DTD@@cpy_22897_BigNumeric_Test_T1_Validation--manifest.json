@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 152,
+  "projectName" : "DTD",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 22911,
+  "validationName" : "cpy_22897_BigNumeric_Test_T1_Validation",
+  "uniqueId" : "ImpExp_22911_1781678892507",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T06:48:12.705Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "22911_1781678892510.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@DTD@@cpy_22897_BigNumeric_Test_T1_Validation"
+}

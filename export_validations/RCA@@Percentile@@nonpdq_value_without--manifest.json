@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 43,
+  "projectName" : "Percentile",
+  "domainId" : 38,
+  "domainName" : "RCA",
+  "validationId" : 4583,
+  "validationName" : "nonpdq_value_without",
+  "uniqueId" : "ImpExp_4583_1784268383493",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-17T06:06:23.581Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4583_1784268383509.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "RCA@@Percentile@@nonpdq_value_without"
+}

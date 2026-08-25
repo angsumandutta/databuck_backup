@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 32,
+  "domainName" : "Matching_FM",
+  "validationId" : 4646,
+  "validationName" : "code_tab_Validation",
+  "uniqueId" : "ImpExp_4646_1784200104782",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-16T11:08:24.891Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4646_1784200104785.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Matching_FM@@Testing@@code_tab_Validation"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 42,
+  "projectName" : "rca",
+  "domainId" : 37,
+  "domainName" : "test",
+  "validationId" : 3548,
+  "validationName" : "day_by_day_percentile_cyc_dayofweek_non_pdq_Validation",
+  "uniqueId" : "ImpExp_3548_1781843227489",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T04:27:07.525Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3548_1781843227491.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "test@@rca@@day_by_day_percentile_cyc_dayofweek_non_pdq_Validation"
+}

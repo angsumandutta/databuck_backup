@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 26,
+  "projectName" : "DG",
+  "domainId" : 12,
+  "domainName" : "Quality",
+  "validationId" : 3529,
+  "validationName" : "RCA_Hist_Percentile_Validation",
+  "uniqueId" : "ImpExp_3529_1781790872593",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T13:54:32.638Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3529_1781790872596.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Quality@@DG@@RCA_Hist_Percentile_Validation"
+}

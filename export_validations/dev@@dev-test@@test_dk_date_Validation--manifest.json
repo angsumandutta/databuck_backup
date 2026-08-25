@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 396,
+  "validationName" : "test_dk_date_Validation",
+  "uniqueId" : "ImpExp_396_1783057941019",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-03T11:22:21.269Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "396_1783057941072.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@test_dk_date_Validation"
+}

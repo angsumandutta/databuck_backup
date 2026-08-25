@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 18,
+  "projectName" : "Testing2",
+  "domainId" : 1,
+  "domainName" : "Banking",
+  "validationId" : 4679,
+  "validationName" : "DDM_HDBD_Incr",
+  "uniqueId" : "ImpExp_4679_1784783560266",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-23T05:12:40.323Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4679_1784783560268.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Banking@@Testing2@@DDM_HDBD_Incr"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "QA_TESTING",
+  "domainId" : 5,
+  "domainName" : "Advertisement",
+  "validationId" : 26117,
+  "validationName" : "DT_Test",
+  "uniqueId" : "ImpExp_26117_1781681696197",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T07:34:56.390Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "26117_1781681696200.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Advertisement@@QA_TESTING@@DT_Test"
+}

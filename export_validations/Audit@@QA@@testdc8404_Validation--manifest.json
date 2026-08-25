@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 141,
+  "projectName" : "QA",
+  "domainId" : 123,
+  "domainName" : "Audit",
+  "validationId" : 32003,
+  "validationName" : "testdc8404_Validation",
+  "uniqueId" : "ImpExp_32003_1781788171722",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-18T13:09:31.987Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "32003_1781788171724.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Audit@@QA@@testdc8404_Validation"
+}

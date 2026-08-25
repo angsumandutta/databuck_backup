@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 49,
+  "projectName" : "codexproject",
+  "domainId" : 48,
+  "domainName" : "Script",
+  "validationId" : 4669,
+  "validationName" : "Regression_cod01_Validation",
+  "uniqueId" : "ImpExp_4669_1784716002735",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-22T10:26:42.786Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4669_1784716002737.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Script@@codexproject@@Regression_cod01_Validation"
+}

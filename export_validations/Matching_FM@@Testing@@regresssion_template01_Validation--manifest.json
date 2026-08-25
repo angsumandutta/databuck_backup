@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 17,
+  "projectName" : "Testing",
+  "domainId" : 32,
+  "domainName" : "Matching_FM",
+  "validationId" : 3488,
+  "validationName" : "regresssion_template01_Validation",
+  "uniqueId" : "ImpExp_3488_1781853508256",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T07:18:28.289Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3488_1781853508257.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Matching_FM@@Testing@@regresssion_template01_Validation"
+}

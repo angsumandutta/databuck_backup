@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 17,
+  "projectName" : "dev-test",
+  "domainId" : 7,
+  "domainName" : "dev",
+  "validationId" : 382,
+  "validationName" : "manufacturing_demo_rca_materials_with_anomalies_Validation",
+  "uniqueId" : "ImpExp_382_1782100126978",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-22T09:18:49.669Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "382_1782100129347.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "dev@@dev-test@@manufacturing_demo_rca_materials_with_anomalies_Validation"
+}

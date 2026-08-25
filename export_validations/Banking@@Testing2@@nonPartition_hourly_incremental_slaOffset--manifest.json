@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 18,
+  "projectName" : "Testing2",
+  "domainId" : 1,
+  "domainName" : "Banking",
+  "validationId" : 4666,
+  "validationName" : "nonPartition_hourly_incremental_slaOffset",
+  "uniqueId" : "ImpExp_4666_1784615081535",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-07-21T06:24:41.632Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "4666_1784615081541.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Banking@@Testing2@@nonPartition_hourly_incremental_slaOffset"
+}

@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 18,
+  "projectName" : "IT",
+  "domainId" : 10,
+  "domainName" : "BANK",
+  "validationId" : 31754,
+  "validationName" : "test_mongo_Validation",
+  "uniqueId" : "ImpExp_31754_1781683954182",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-17T08:12:34.361Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "31754_1781683954184.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "BANK@@IT@@test_mongo_Validation"
+}

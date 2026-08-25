@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "DEV",
+  "projectId" : 56,
+  "projectName" : "",
+  "domainId" : 53,
+  "domainName" : "",
+  "validationId" : 27919,
+  "validationName" : "test_jira_11_02",
+  "uniqueId" : "ImpExp_27919_1781498645690",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-15T10:14:28.886Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "27919_1781498645694.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "@#test_jira_11_02"
+}

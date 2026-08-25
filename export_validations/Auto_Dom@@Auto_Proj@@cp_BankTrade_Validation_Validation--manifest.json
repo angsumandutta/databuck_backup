@@ -1,0 +1,21 @@
+{
+  "artifactType" : "validation-export",
+  "version" : "1.0",
+  "sourceEnvironment" : "STG",
+  "projectId" : 30,
+  "projectName" : "Auto_Proj",
+  "domainId" : 18,
+  "domainName" : "Auto_Dom",
+  "validationId" : 3575,
+  "validationName" : "cp_BankTrade_Validation_Validation",
+  "uniqueId" : "ImpExp_3575_1781867326793",
+  "exportedBy" : "Admin User",
+  "exportedAt" : "2026-06-19T11:08:46.839Z",
+  "exportMode" : "git",
+  "files" : [ {
+    "name" : "3575_1781867326795.zip",
+    "checksum" : null
+  } ],
+  "supportsImportModes" : [ "new", "update" ],
+  "validationKey" : "Auto_Dom@@Auto_Proj@@cp_BankTrade_Validation_Validation"
+}
